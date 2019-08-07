@@ -4,7 +4,7 @@
 
 CacheTest is a module for GNU GRUB environment that measures bandwidth/latency of selective cache levels without OS interference. Selectivity is achieved using strided accesses and checked using CPU performance counters.
 
-The software was used to measure Intel Haswell 4770K CPU cache performance research. The results have been published in the following scientific research papers:
+The software was used to measure Intel Haswell 4770K CPU cache performance research. The results have been published in the following scientific papers:
 
 * Petrov V., Moltchanov D., Komar M., Antonov A., Kustarev P., Rakheija S., Koucheryavy Y. Terahertz Band Intra-Chip Communications: Can Wireless Links Scale Modern x86 CPUs? // IEEE Access - 2017, Vol. 5, pp. 6095-6109
 
